@@ -47,6 +47,12 @@ Start the services
 ```bash
 docker-compose up -d
 ```
+
+Run `entrypoint.sh` after the Influxdb service has started to verify all environment variables
+```bash
+./entrypoint.sh
+```
+
 ## Docker Images Used (Official & Verified)
 
 [**Telegraf**](https://hub.docker.com/_/telegraf) / `1.19`
