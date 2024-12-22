@@ -11,6 +11,8 @@ Gain the ability to analyze and monitor telemetry data by deploying the TIG stac
 
 ## ⚡️ Getting Started
 
+### Video Guide: https://www.youtube.com/watch?v=QGG_76OmRnA
+
 Clone the project
 
 ```bash
